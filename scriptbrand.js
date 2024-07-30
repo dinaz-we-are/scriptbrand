@@ -10,7 +10,7 @@ function pageSpecificFunctions() {
   }
   
   //
-  
+  //
   //
   
   function logoAnima() {
